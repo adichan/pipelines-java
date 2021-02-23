@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/aerador/azure-devops-github-acr-aks-app1/_apis/build/status/adichan.pipelines-java?branchName=master)](https://dev.azure.com/aerador/azure-devops-github-acr-aks-app1/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
